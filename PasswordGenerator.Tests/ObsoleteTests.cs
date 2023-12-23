@@ -2,7 +2,6 @@
 using System.Text.RegularExpressions;
 using System;
 
-
 namespace PasswordGenerator.Tests
 {
   public class ObsoleteTests
